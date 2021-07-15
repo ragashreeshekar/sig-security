@@ -1,6 +1,8 @@
-„Copyright 2021 CNCF TAG-Security
+<!--- 
+Copyright 2021 CNCF TAG-Security
 Licensed under the Creative Common Attribution 4.0 International License
-SPDX-License-Identifier: CC-BY-4.0„.
+SPDX-License-Identifier: CC-BY-4.0
+--->
 
 Shared with CNCF Community
 
