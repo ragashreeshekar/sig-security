@@ -1241,10 +1241,10 @@ Special thanks to Emily Fox and Ragashree M C.
 
 Contributors:
 
-* Anoop Chandra B N - Hewlett Packard Enterprise
 * Adam Morris
 * Alex Floyd Marshall - Soren Technology
 * Andreas
+* Anoop Chandra B N - Hewlett Packard Enterprise
 * Aradhna Chetal - TIAA
 * Brad McCoy - Moula
 * Emily Fox - Apple
